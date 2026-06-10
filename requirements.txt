@@ -1,0 +1,3 @@
+# Guess the Number — dependencies
+# All modules used are from the Python 3 standard library.
+# No third-party packages are required.
