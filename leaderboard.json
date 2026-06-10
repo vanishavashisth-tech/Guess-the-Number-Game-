@@ -1,0 +1,90 @@
+[
+  {
+    "player": "Vanisha",
+    "score": 2500,
+    "difficulty": "Hard",
+    "attempts_used": 1,
+    "max_attempts": 5,
+    "date": "2026-06-10 10:05"
+  },
+  {
+    "player": "Aryan",
+    "score": 1500,
+    "difficulty": "Hard",
+    "attempts_used": 3,
+    "max_attempts": 5,
+    "date": "2026-06-09 18:44"
+  },
+  {
+    "player": "Priya",
+    "score": 1286,
+    "difficulty": "Medium",
+    "attempts_used": 2,
+    "max_attempts": 7,
+    "date": "2026-06-08 21:11"
+  },
+  {
+    "player": "Rishi",
+    "score": 1000,
+    "difficulty": "Hard",
+    "attempts_used": 5,
+    "max_attempts": 5,
+    "date": "2026-06-07 14:30"
+  },
+  {
+    "player": "TestPlayer",
+    "score": 999,
+    "difficulty": "Hard",
+    "attempts_used": 3,
+    "max_attempts": 5,
+    "date": "2026-06-10 18:24"
+  },
+  {
+    "player": "Sana",
+    "score": 857,
+    "difficulty": "Medium",
+    "attempts_used": 4,
+    "max_attempts": 7,
+    "date": "2026-06-07 09:55"
+  },
+  {
+    "player": "Kiran",
+    "score": 750,
+    "difficulty": "Easy",
+    "attempts_used": 2,
+    "max_attempts": 10,
+    "date": "2026-06-06 17:03"
+  },
+  {
+    "player": "Dev",
+    "score": 600,
+    "difficulty": "Medium",
+    "attempts_used": 5,
+    "max_attempts": 7,
+    "date": "2026-06-05 11:20"
+  },
+  {
+    "player": "Mia",
+    "score": 500,
+    "difficulty": "Easy",
+    "attempts_used": 4,
+    "max_attempts": 10,
+    "date": "2026-06-04 19:47"
+  },
+  {
+    "player": "Leo",
+    "score": 400,
+    "difficulty": "Easy",
+    "attempts_used": 6,
+    "max_attempts": 10,
+    "date": "2026-06-03 08:15"
+  },
+  {
+    "player": "Noor",
+    "score": 250,
+    "difficulty": "Easy",
+    "attempts_used": 8,
+    "max_attempts": 10,
+    "date": "2026-06-02 22:30"
+  }
+]
